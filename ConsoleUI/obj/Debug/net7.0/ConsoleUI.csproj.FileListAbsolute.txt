@@ -1,0 +1,253 @@
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Azure.Core.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/linux-x64/native/libsqlite3.so
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Business.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Business.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Entity.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Core.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/ConsoleUI/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Azure.Core.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Humanizer.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/linux-x64/native/libsqlite3.so
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Autofac.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Azure.Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Azure.Identity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Castle.Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Humanizer.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.CodeDom.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/linux-x64/native/libsqlite3.so
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/osx-x64/native/libsqlite3.dylib
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x64/native/sqlite3.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win7-x86/native/sqlite3.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CopyComplete
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll

@@ -1,0 +1,57 @@
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/Entity.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

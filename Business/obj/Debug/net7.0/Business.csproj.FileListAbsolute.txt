@@ -1,0 +1,57 @@
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Business.deps.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Business.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Business.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Entity.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/Business.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Core.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Business/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Business.deps.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Business/obj/Debug/net7.0/ref/Business.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Business.deps.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/DataAccess.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/DataAccess.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.AssemblyInfo.cs
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.csproj.CopyComplete
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/refint/Business.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/Business.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/obj/Debug/net7.0/ref/Business.dll

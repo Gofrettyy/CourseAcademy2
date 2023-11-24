@@ -1,0 +1,45 @@
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/bin/Debug/net7.0/Entity.deps.json
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/bin/Debug/net7.0/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/bin/Debug/net7.0/Entity.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.csproj.AssemblyReference.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.AssemblyInfoInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.AssemblyInfo.cs
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.csproj.CoreCompileInputs.cache
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/refint/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/ref/Entity.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/bin/Debug/net7.0/Core.dll
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/bin/Debug/net7.0/Core.pdb
+/Users/melodibayraktar/RiderProjects/CourseAcademy2/Entity/obj/Debug/net7.0/Entity.csproj.CopyComplete
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/bin/Debug/net7.0/Entity.deps.json
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.AssemblyInfo.cs
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.csproj.CopyComplete
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/refint/Entity.dll
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/Downloads/CourseAcademy-main 2/Entity/obj/Debug/net7.0/ref/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/bin/Debug/net7.0/Entity.deps.json
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/bin/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/bin/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/bin/Debug/net7.0/Core.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/bin/Debug/net7.0/Core.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.csproj.AssemblyReference.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.AssemblyInfoInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.AssemblyInfo.cs
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.csproj.CoreCompileInputs.cache
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.csproj.CopyComplete
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/refint/Entity.dll
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/Entity.pdb
+/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Entity/obj/Debug/net7.0/ref/Entity.dll
