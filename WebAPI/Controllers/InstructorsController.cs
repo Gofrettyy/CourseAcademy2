@@ -15,7 +15,7 @@ namespace WebAPI.Controllers
             _instructorService = instructorService;
         }
 
-        [HttpGet("getall")]
+        [HttpGet("GetAll")]
         public IActionResult GetAll()
         {
             var result = _instructorService.GetAll();
@@ -26,7 +26,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpGet("getbyid")]
+        [HttpGet("GetById")]
         public IActionResult GetByInstructorId(int id)
         {
             var result = _instructorService.GetByInstructorId(id);
@@ -37,7 +37,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpPost("add")]
+        [HttpPost("Add")]
         public IActionResult Add(Instructor instructor)
         {
             var result = _instructorService.Add(instructor);
@@ -48,7 +48,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpPost("delete")]
+        [HttpPost("Delete")]
         public IActionResult Delete(Instructor instructor)
         {
             var result = _instructorService.Delete(instructor);
@@ -60,8 +60,8 @@ namespace WebAPI.Controllers
         }
 
 
-        [HttpPut("update")]
-        [HttpPatch("update")]
+        [HttpPut("Update")]
+        [HttpPatch("Update")]
         public IActionResult Update(Instructor instructor)
         {
             var result = _instructorService.Update(instructor);

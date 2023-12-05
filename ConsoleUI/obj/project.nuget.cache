@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JMR24Kmub8/RhjeqKQta7X8nLKHBw660DdjXNdsSdb3ryMvHObBCaA9GrOU72V2oeUhLMJekUaNtBBXtgnoVxg==",
+  "dgSpecHash": "le/U6SY5BPAupl6M3HVrDs6WHyy4h5JVqVKDSPWSSOkQ85ZPvkfY5LpShkqXiq+AdLyG1F6TUP389Asf0PssfQ==",
   "success": true,
   "projectFilePath": "/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/Users/naznehiralicavus/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
+    "/Users/naznehiralicavus/.nuget/packages/autofac.extensions.dependencyinjection/7.1.0/autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/autofac.extras.dynamicproxy/7.1.0/autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/naznehiralicavus/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

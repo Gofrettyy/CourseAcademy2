@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "F7XNJwFEiQS0vVrQdcasH0T8zVBV8mbkIK+2/IznIxJTwaIimgII1Dq+hw6yxWgonqgj43Q22pbe8YKB9V4fRA==",
+  "dgSpecHash": "VjhQppPlVdMbtg4CL7gG4vfhBg53e86Ev6idncgMYT78KQghiOEkso204YNxYDO22KFwPR+UisMlJABDmspSrQ==",
   "success": true,
   "projectFilePath": "/Users/naznehiralicavus/RiderProjects/CourseAcademy2'/Business/Business.csproj",
   "expectedPackageFiles": [
     "/Users/naznehiralicavus/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
+    "/Users/naznehiralicavus/.nuget/packages/autofac.extensions.dependencyinjection/7.1.0/autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/autofac.extras.dynamicproxy/7.1.0/autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/naznehiralicavus/.nuget/packages/fluentvalidation/11.8.1/fluentvalidation.11.8.1.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/naznehiralicavus/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",

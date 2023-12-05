@@ -1,9 +1,15 @@
+using System.ComponentModel.DataAnnotations;
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entity.Concrete;
 using Entity.DTOs;
+using FluentValidation;
+using ValidationException = FluentValidation.ValidationException;
 
 namespace Business.Concrete;
 
@@ -36,13 +42,9 @@ public class CourseManager:ICourseService
         return new SuccessDataResult<List<CourseDetailDto>>(_courseDal.GetCourseDetails());
     }
 
+    [ValidationAspect(typeof(CourseValidator))]
     public IResult Add(Course course)
     {
-        if (course.Title.Length<2)
-        {
-            return new ErrorResult(Messages.CourseNameInvalid);
-        }
-
         _courseDal.Add(course);
         return new SuccessResult(Messages.CourseAdded);
     }

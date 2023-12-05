@@ -1,8 +1,12 @@
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entity.Concrete;
+using FluentValidation;
 
 namespace Business.Concrete;
 
@@ -24,6 +28,7 @@ public class InstructorManager:IInstructorService
         return new SuccessDataResult<List<Instructor>>(_instructorDal.GetAll(i => i.Id == id));
     }
 
+    [ValidationAspect(typeof(InstructorValidator))]
     public IResult Add(Instructor instructor)
     {
         _instructorDal.Add(instructor);
